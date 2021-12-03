@@ -1,0 +1,3 @@
+C:\Users\ollie\OneDrive - King Edward VI School\School\Year 9\Computer Science\Arrays Assessmnet\ArrayAssessment - V2\bin\Release\ArrayAssessment - V2.exe
+C:\Users\ollie\OneDrive - King Edward VI School\School\Year 9\Computer Science\Arrays Assessmnet\ArrayAssessment - V2\obj\Release\ArrayAssessment - V2.vbprojResolveAssemblyReference.cache
+C:\Users\ollie\OneDrive - King Edward VI School\School\Year 9\Computer Science\Arrays Assessmnet\ArrayAssessment - V2\obj\Release\ArrayAssessment - V2.exe
